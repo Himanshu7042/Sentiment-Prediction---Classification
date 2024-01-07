@@ -8,7 +8,7 @@ This project focuses on building a machine learning model for sentiment analysis
 
 1. [Exploratory Data Analysis (EDA)]
 2. [Data Preprocessing]
-3. [Modeling](#modeling)
+3. [Modeling]
 4. [Hyperparameter Tuning]
 5. [Submission on Kaggle]
 
